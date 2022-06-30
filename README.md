@@ -1,10 +1,10 @@
 ### Hello there 👋
 
 - 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on WEB Projects
+- 👯 I’m looking to collaborate on NodeJS Projects
 - 🤔 I’m looking for help with centering a div, (really!)
-- 💬 Ask me about Peshawar 🏙️, Greek Mythology 🗿, Game of Thrones 👑.
-- ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
+- 💬 Discuss Technology, Psychology & Business with me.
+- ⚡ Fun fact: I gain few drops of blood by helping others :D!
 - 😄 Pronouns: him/he
 
 <p align="center">
