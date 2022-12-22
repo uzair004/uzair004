@@ -5,7 +5,6 @@
 - 🤔 I’m looking for help with centering a div, (really!)
 - 💬 Discuss Technology, Psychology & Business with me.
 - ⚡ Fun fact: I gain few drops of blood by helping others :D!
-- 😄 Pronouns: him/he
 
 <p align="center">
 	<img width="625em" src="./github-metrics.svg" />
