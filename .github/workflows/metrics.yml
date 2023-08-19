@@ -21,9 +21,4 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
           plugin_lines: yes
-          plugin_stargazers: yes
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
