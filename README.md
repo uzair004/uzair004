@@ -6,7 +6,7 @@
 - 💬 Discuss Technology, Psychology & Business with me.
 - ⚡ Fun fact: I gain few drops of blood by helping others :D!
 
- ![](https://komarev.com/ghpvc/?username=your-github-username)
+ ![](https://komarev.com/ghpvc/?username=uzair004)
 
 <p align="center">
 	<img width="625em" src="./github-metrics.svg" />
