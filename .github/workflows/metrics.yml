@@ -19,6 +19,6 @@ jobs:
           # Options
           user: uzair004
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_timezone: Asia/Karachi
           plugin_lines: yes
