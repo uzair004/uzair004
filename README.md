@@ -1,8 +1,7 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning Backend Technologies
+- 🌱 Currently tinkering with backend systems, cloud infra, and accidentally learning frontend (hello, CSS nightmares!)
 - 👯 I’m looking to collaborate on Backend Projects
-- 🤔 I’m looking for help with centering a div, (really!)
 - 💬 Discuss Technology, Psychology & Business with me.
 - ⚡ Fun fact: I gain few drops of blood by helping others :D!
 
