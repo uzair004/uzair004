@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 Currently tinkering with backend systems, cloud infra, and also (hello, CSS nightmares!)
+- 🌱 Currently tinkering with backend systems, cloud infra, and also Frontend/Mobile App
 - 👯 I’m looking to collaborate on interesting Projects
 - 💬 Discuss Technology, Psychology & Business with me.
  <!--  - ⚡ Fun fact: I gain few drops of blood by helping others :D! -->
